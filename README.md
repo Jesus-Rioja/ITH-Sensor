@@ -3,7 +3,7 @@
 This libraries allow SP32 to:
   - Connect the SP32 microcontroller to The Things Network (LoRa WAN protocol).
   - Calculate the ITH (value obtained from Humidity and Temperature) value.
-  - Two modes of get the ITH: manueally or automatically (timers).
+  - Two modes of get the ITH: manually or automatically (timers).
   - Activates a maximum of 3 reles if a ITH value is reached.
   - Connect to The Things Network and send the data collected by the sensor.
   
