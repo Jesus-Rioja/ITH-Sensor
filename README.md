@@ -1,4 +1,4 @@
-# TTN-ITH-Sensor
+# ITH-Sensor
 
 This libraries allow SP32 to:
   - Connect the SP32 microcontroller to The Things Network (LoRa WAN protocol).
